@@ -6,7 +6,7 @@ MewMew's Cozy Café is a cozy cat café simulation game built entirely in **Scra
 
 ## Gameplay:
 
-![Gameplay](assets/Gameplay.gif)
+![Gameplay](assets/Gameplay.mp4)
 
 ## Features:
 
