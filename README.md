@@ -1,11 +1,9 @@
 🐾 MewMew's Café
 
-A cozy café simulation game built entirely in **Scratch**, where players help MewMew serve adorable cat customers by listening carefully to their orders and choosing the correct food.
+MewMew's Cozy Café is a cat café simulation game built entirely in Scratch. Players welcome adorable feline customers, listen to their orders, and serve the correct food while enjoying custom artwork, animations, music, and randomized gameplay.
 
-
-* Features
-
-- Four unique cat customers
+Features:
+- Four unique cat customers with individual personalities
 - Randomized food orders
 - Heart-based scoring system
 - Background music and sound effects
@@ -13,18 +11,16 @@ A cozy café simulation game built entirely in **Scratch**, where players help M
 - Character animations and dialogue
 - Game Over screen after five customers
 
-* How to Play
-
+How to Play:
 1. Click the Green Flag.
 2. Welcome each customer.
 3. Listen carefully to their order.
 4. Select the correct food.
 5. Serve five customers to complete the day.
 
-* Built With
-
+Built With:
 - Scratch 3.0
 
-* About the Project
+About the Project:
 
 Every sprite, background, and menu item in this project was hand-drawn by me. The game was created to practice event-driven programming, variables, broadcasts, animations, and user interaction while designing a fun and polished experience.
