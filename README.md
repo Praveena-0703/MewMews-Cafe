@@ -2,11 +2,11 @@
 
 MewMew's Cozy Café is a cozy cat café simulation game built entirely in **Scratch**. Players welcome adorable feline customers, listen carefully to their orders, and serve the correct food while enjoying hand-drawn artwork, custom animations, sound effects, background music, and randomized gameplay.
 
-![Cover](assets/cover.png)
+![Cover](assets/Cover.png)
 
 ## Gameplay:
 
-![Gameplay](assets/gameplay.gif)
+![Gameplay](assets/Gameplay.gif)
 
 ## Features:
 
@@ -39,9 +39,9 @@ Every sprite, background, and menu item in this project was hand-drawn by me. I 
 ```text
 MewMews-Cafe/
 ├── assets/
-│   ├── cover.png
-│   ├── gameplay.gif
-│   ├── gameplay.mp4
+│   ├── Cover.png
+│   ├── Gameplay.gif
+│   ├── Gameplay.mp4
 │   ├── screenshot-1.png
 │   └── screenshot-2.png
 ├── MewMews-Cozy-Cafe.sb3
